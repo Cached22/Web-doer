@@ -1,0 +1,6 @@
+selenium==3.141.0
+beautifulsoup4==4.9.3
+requests==2.25.1
+python-dotenv==0.15.0
+fake-useragent==0.1.11
+captcha-solver==0.1.1
